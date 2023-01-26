@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity implements Mosaic.GameEvent 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mosaic = findViewById(R.id.gameLib);
+        mosaic = findViewById(R.id.mosaic);
         initGame();
     }
 
