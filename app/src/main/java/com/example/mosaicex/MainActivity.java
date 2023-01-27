@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity implements Mosaic.GameEvent 
     }
 
     @Override
-    public void onGameTouchEvent(Mosaic.Card card, int action, float blockX, float blockY) {
+    public void onGameTouchEvent(Mosaic.Card card, int action, float blockX, float blockY, MotionEvent event) {
         if(card == cardHeart && action == MotionEvent.ACTION_MOVE) {
             card.moveGap(blockX, blockY);
         }
