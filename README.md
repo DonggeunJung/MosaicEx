@@ -1,17 +1,8 @@
 # MosaicEx
  [Android & Java] Mosaic game library sample project for education
-
 <br>
-[Image1 : Main screen of MosaicEx]
-
-<div>
-<img src="https://github.com/DonggeunJung/MosaicEx/blob/main/Mosaic_Capture01.png?raw=true width="360px" height="600px"></img>
-</div>
-
-<br>
-
-                                                                                                                             
 This is a sample project of Mosaic game library for education.
+
 <br>
 <br>
 
@@ -30,6 +21,27 @@ FlappyBird Link : https://github.com/DonggeunJung/FlappyBird<br>
 Galaxian Link : https://github.com/DonggeunJung/Galaxian<br>
 Hexa Link : https://github.com/DonggeunJung/HexaOrigin<br>
 
+<br>
+<br>
+
+[ Coding book title : Android 2D Game programming with Java ]
+
+<div>
+<img src="https://github.com/DonggeunJung/MosaicEx/blob/main/Android-Game-Book_Front_Eng.jpg?raw=true width="400px" height="600px"></img>
+</div>
+Book store URL : https://www.amazon.com/dp/B0BVGT2XTG
+<br>
+<br>
+
+<br>
+<br>
+
+[ Coding book title : 자바로 만드는 안드로이드 2D 게임 ]
+
+<div>
+<img src="https://github.com/DonggeunJung/MosaicEx/blob/main/Android-Game-Book_Front_Kor.png?raw=true width="360px" height="600px"></img>
+</div>
+Book store URL : http://www.yes24.com/Product/Goods/117466097
 <br>
 <br>
 
